@@ -9,3 +9,5 @@ The code in this repository converts the SIC 2007 "Summary of Structure" [table]
 The final table is exported in .csv. Variables (codes classification) in the table include: Section (letter),	Division (2-digit code),	Group (3-digit codes),	Class (4-digit codes)	and Sub-class (5-digit codes).
 
 
+# sicTransform + Industries
+Folder `industries` includes data and R code to harmonise ONS Sections with Industries (including Manufacturing).
